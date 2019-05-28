@@ -38,6 +38,7 @@ public class IHelloServiceHandler implements InvocationHandler {
 
     /**
     　* 生成代理对象
+      * 生成字节码文件到内存，从内存加载代理对象
     　* @author fancq
     　* @date 2019/5/28 10:46
       * @email 1191071905@qq.com
